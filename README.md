@@ -2,4 +2,5 @@
 
 
 - Mathieu TUDISCO,
-- Guillaume LECOMTE !
+- Guillaume LECOMTE,
+- Flore de Lasteyrie.
