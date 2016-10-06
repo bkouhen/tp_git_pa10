@@ -6,5 +6,3 @@
 - Boubker EL KOUHENE,
 - Guillaume LECOMTE,
 - Solal LUSSEYRAN.
-
-=> Bob
