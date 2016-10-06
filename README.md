@@ -4,4 +4,5 @@
 - Flore de Lasteyrie,
 - Antoine NICOLAS,
 - Boubker EL KOUHENE,
-- Guillaume LECOMTE.
+- Guillaume LECOMTE,
+- Solal LUSSEYRAN.
