@@ -1,5 +1,6 @@
 # TP GIT PA10
 
-
 - Mathieu TUDISCO,
-- Solal Lusseyran.
+- Flore de Lasteyrie,
+- Antoine NICOLAS,
+- Solal LUSSEYRAN.
